@@ -1,4 +1,3 @@
-```markdown
 # 📸 SnapClassifier
 
 SnapClassifier is a Streamlit-based web application that uses state-of-the-art deep learning models to classify objects in your images. With support for uploading images via file, URL, or webcam, SnapClassifier provides instant predictions using two powerful architectures: VGG-16 and MobileNet.
